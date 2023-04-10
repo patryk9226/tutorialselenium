@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="649d2eeb-8cf1-4d4c-af3f-c1c155c51a48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/CssSelectorsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SelectorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/XpathTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,35 +53,17 @@
     "settings.editor.selected.configurable": "build.tools"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.CssSelectorsTest">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.XpathTest">
     <configuration name="CssSelectorsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialselenium" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CssSelectorsTest" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="tutorialselenium" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SecondTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondTest.findSeleniumTutorial" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="tutorialselenium" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SecondTest" />
-      <option name="METHOD_NAME" value="findSeleniumTutorial" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -112,13 +93,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="XpathTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutorialselenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="XpathTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XpathTest.findEleements" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutorialselenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="XpathTest" />
+      <option name="METHOD_NAME" value="findEleements" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.XpathTest" />
+        <item itemvalue="TestNG.XpathTest.findEleements" />
         <item itemvalue="TestNG.CssSelectorsTest" />
         <item itemvalue="TestNG.SelectorTest" />
         <item itemvalue="TestNG.SelectorTest.findEleements" />
-        <item itemvalue="TestNG.SecondTest" />
-        <item itemvalue="TestNG.SecondTest.findSeleniumTutorial" />
       </list>
     </recent_temporary>
   </component>
@@ -152,12 +156,20 @@
       <option name="project" value="LOCAL" />
       <updated>1681119248033</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="SecectorsCss">
+      <created>1681134401655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681134401655</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="SecondTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="SecondTest" />
+    <MESSAGE value="SecectorsCss" />
+    <option name="LAST_COMMIT_MESSAGE" value="SecectorsCss" />
   </component>
 </project>
