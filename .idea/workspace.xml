@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="649d2eeb-8cf1-4d4c-af3f-c1c155c51a48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/FirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SecondTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WebDriverMenagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CssSelectorsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SelectorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,24 +54,12 @@
     "settings.editor.selected.configurable": "build.tools"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.SecondTest">
-    <configuration name="FirstTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.CssSelectorsTest">
+    <configuration name="CssSelectorsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialselenium" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="MAIN_CLASS_NAME" value="CssSelectorsTest" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstTest.openGooglePage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="tutorialselenium" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTest" />
-      <option name="METHOD_NAME" value="openGooglePage" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -104,11 +89,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebDriverMenagerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectorTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialselenium" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WebDriverMenagerTest" />
+      <option name="MAIN_CLASS_NAME" value="SelectorTest" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectorTest.findEleements" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutorialselenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SelectorTest" />
+      <option name="METHOD_NAME" value="findEleements" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -117,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CssSelectorsTest" />
+        <item itemvalue="TestNG.SelectorTest" />
+        <item itemvalue="TestNG.SelectorTest.findEleements" />
         <item itemvalue="TestNG.SecondTest" />
         <item itemvalue="TestNG.SecondTest.findSeleniumTutorial" />
-        <item itemvalue="TestNG.FirstTest" />
-        <item itemvalue="TestNG.FirstTest.openGooglePage" />
-        <item itemvalue="TestNG.WebDriverMenagerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -148,11 +145,19 @@
       <option name="project" value="LOCAL" />
       <updated>1680703685323</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="SecondTest">
+      <created>1681119248033</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681119248033</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="SecondTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="SecondTest" />
   </component>
 </project>
