@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649d2eeb-8cf1-4d4c-af3f-c1c155c51a48" name="Changes" comment="SecectorsXpath">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ActionsDoubleClickTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ActionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BasicActionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BasicPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ExecutorText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GetPageInfoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HoverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/IframeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NewWindowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PracaDomowa1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SelectCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UploadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SecondTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SecondTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SelectorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SelectorTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="649d2eeb-8cf1-4d4c-af3f-c1c155c51a48" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,15 +166,34 @@
       <option name="project" value="LOCAL" />
       <updated>1681148836099</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="praca domowa">
+      <created>1681389787835</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681389787835</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="SecondTest" />
     <MESSAGE value="SecectorsCss" />
     <MESSAGE value="SecectorsXpath" />
-    <option name="LAST_COMMIT_MESSAGE" value="SecectorsXpath" />
+    <MESSAGE value="praca domowa" />
+    <option name="LAST_COMMIT_MESSAGE" value="praca domowa" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/tutorialselenium$BasicActionTest.ic" NAME="BasicActionTest Coverage Results" MODIFIED="1681303645994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
