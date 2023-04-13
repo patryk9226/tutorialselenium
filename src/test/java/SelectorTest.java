@@ -30,10 +30,5 @@ public class SelectorTest {
         WebElement linkText = driver.findElement(By.linkText("Visit W3Schools.com!"));
 
         WebElement linkText2 = driver.findElement(By.partialLinkText("Weird"));
-
-
-
-        Thread.sleep(3000);
-        driver.quit();
     }
 }

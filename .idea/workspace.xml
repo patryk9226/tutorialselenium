@@ -4,9 +4,22 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649d2eeb-8cf1-4d4c-af3f-c1c155c51a48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/XpathTest.java" afterDir="false" />
+    <list default="true" id="649d2eeb-8cf1-4d4c-af3f-c1c155c51a48" name="Changes" comment="SecectorsXpath">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionsDoubleClickTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BasicActionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BasicPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ExecutorText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GetPageInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HoverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/IframeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NewWindowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PracaDomowa1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SelectCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UploadTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SecondTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SecondTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SelectorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SelectorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,28 +54,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.build.tools.auto.reload": "ALL",
-    "settings.editor.selected.configurable": "build.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/patry/IdeaProjects/RepoToShow&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.build.tools.auto.reload&quot;: &quot;ALL&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.XpathTest">
-    <configuration name="CssSelectorsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.BasicPageTest">
+    <configuration name="ActionsDoubleClickTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialselenium" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CssSelectorsTest" />
+      <option name="MAIN_CLASS_NAME" value="ActionsDoubleClickTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutorialselenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasicPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetPageInfoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutorialselenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetPageInfoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HoverTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutorialselenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HoverTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -81,48 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectorTest.findEleements" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="tutorialselenium" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SelectorTest" />
-      <option name="METHOD_NAME" value="findEleements" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XpathTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="tutorialselenium" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="XpathTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XpathTest.findEleements" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="tutorialselenium" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="XpathTest" />
-      <option name="METHOD_NAME" value="findEleements" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.XpathTest" />
-        <item itemvalue="TestNG.XpathTest.findEleements" />
-        <item itemvalue="TestNG.CssSelectorsTest" />
+        <item itemvalue="TestNG.BasicPageTest" />
         <item itemvalue="TestNG.SelectorTest" />
-        <item itemvalue="TestNG.SelectorTest.findEleements" />
+        <item itemvalue="TestNG.GetPageInfoTest" />
+        <item itemvalue="TestNG.HoverTest" />
+        <item itemvalue="TestNG.ActionsDoubleClickTest" />
       </list>
     </recent_temporary>
   </component>
@@ -163,13 +175,24 @@
       <option name="project" value="LOCAL" />
       <updated>1681134401655</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="SecectorsXpath">
+      <created>1681148836099</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681148836099</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="SecondTest" />
     <MESSAGE value="SecectorsCss" />
-    <option name="LAST_COMMIT_MESSAGE" value="SecectorsCss" />
+    <MESSAGE value="SecectorsXpath" />
+    <option name="LAST_COMMIT_MESSAGE" value="SecectorsXpath" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tutorialselenium$BasicActionTest.ic" NAME="BasicActionTest Coverage Results" MODIFIED="1681303645994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

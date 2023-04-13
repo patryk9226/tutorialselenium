@@ -14,6 +14,7 @@ public class SecondTest {
         driver.get("http://seleniumdemo.com/");
         driver.findElement(By.xpath("//span[text()='Shop']")).click();
         WebElement selenimuProduct = driver.findElement(By.xpath("//h2[text()='Java Selenium WebDriver']"));
+
         Thread.sleep(3000);
         driver.quit();
     }
